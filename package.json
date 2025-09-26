@@ -1,0 +1,23 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "By Guerrero Lautaro Ezequiel",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lautiezequiell/Test_Node.git"
+  },
+  "keywords": [
+    "Calculator"
+  ],
+  "author": "Guerrero Lautaro Ezequiel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lautiezequiell/Test_Node/issues"
+  },
+  "homepage": "https://github.com/Lautiezequiell/Test_Node#readme"
+}
